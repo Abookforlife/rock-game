@@ -1,0 +1,57 @@
+.container{
+Margin:auto;
+text-align:center;
+width:70%;
+}
+.pic {
+text-align:center;
+Display:inline block;
+}
+.btn {
+margin-top:50px;
+margin:auto;
+Display:block;
+Width:20%;
+Border:;
+Background-color:#393E46;
+Padding:14px 28px;
+Font-size:16px;
+Text-align:center;
+}
+h1{
+margin:30px;
+font-family:;
+text-shadow:  5px 0 #232931;
+font-size:8rem;
+color:blue;
+}
+p{
+font-size:2rem;
+color:blue;
+font-family:;
+}
+.img1{
+width:20%;
+}
+.img2{
+	width:20%;
+}
+footer{
+margin-top:5%;
+color:white;
+text-align:center;
+font-family:;
+}
+.he{
+margin:30px;
+font-family:;
+text-shadow: ;
+font-size:2rem;
+color:blue;
+}
+button{
+color:white;
+}
+.btnimg{
+width:100%;
+}
